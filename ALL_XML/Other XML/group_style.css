@@ -1,0 +1,27 @@
+member {
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+name {
+    font-weight: bold;
+    display: block;
+    font-size: 20px;
+}
+
+email {
+    font-style: italic;
+    color: rgb(0, 238, 255);
+    display: block;
+}
+
+lead {
+    font-weight: bold;
+    color: red;
+    background-color: chartreuse;
+    width: 100px;
+}

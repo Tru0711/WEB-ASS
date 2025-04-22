@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="emp.xsl"?>
+<Employees>
+   <Emp>
+        <name>Trupti Kandalkar</name>
+        <email>truptikandalkar1@gmail.com</email>
+        <phoneNo>1234567890</phoneNo>
+        <gender>female</gender>
+        <jobTitle>Manager</jobTitle>
+        <DOB>7-10-2004</DOB>
+        <salary>90000</salary>
+   </Emp>
+
+   <Emp>
+        <name>Srujana Toukare</name>
+        <email>srujanatoukare2@gmail.com</email>
+        <phoneNo>2345678901</phoneNo>
+        <gender>female</gender>
+        <jobTitle>Engineer</jobTitle>
+        <DOB>18-5-2004</DOB>
+        <salary>80000</salary>
+   </Emp>
+
+   <Emp>
+        <name>Shreya Patil</name>
+        <email>shreyapatil3@gmail.com</email>
+        <phoneNo>3456789012</phoneNo>
+        <gender>female</gender>
+        <jobTitle>Clerk</jobTitle>
+        <DOB>11-2-2004</DOB>
+        <salary>50000</salary>
+   </Emp>
+
+   <Emp>
+        <name>Shravani Lohar</name>
+        <email>shravanilohar4@gmail.com</email>
+        <phoneNo>4567890123</phoneNo>
+        <gender>female</gender>
+        <jobTitle>Technician</jobTitle>
+        <DOB>4-11-2004</DOB>
+        <salary>60000</salary>
+   </Emp>
+
+   </Employees>

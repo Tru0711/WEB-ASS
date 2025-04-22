@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StudentsList>
+  <StudentRecord>
+    <FullName>Trupti</FullName>
+    <RollNumber>1</RollNumber>
+    <Percentage>87%</Percentage>
+    <EnrollmentID>EN101</EnrollmentID>
+  </StudentRecord>
+  <StudentRecord>
+    <FullName>Swaraj</FullName>
+    <RollNumber>2</RollNumber>
+    <Percentage>64%</Percentage>
+    <EnrollmentID>EN102</EnrollmentID>
+  </StudentRecord>
+  <StudentRecord>
+    <FullName>Rohit</FullName>
+    <RollNumber>3</RollNumber>
+    <Percentage>76%</Percentage>
+    <EnrollmentID>EN103</EnrollmentID>
+  </StudentRecord>
+  <StudentRecord>
+    <FullName>Sanika</FullName>
+    <RollNumber>4</RollNumber>
+    <Percentage>85%</Percentage>
+    <EnrollmentID>EN104</EnrollmentID>
+  </StudentRecord>
+  <StudentRecord>
+    <FullName>Pruthvi</FullName>
+    <RollNumber>5</RollNumber>
+    <Percentage>91%</Percentage>
+    <EnrollmentID>EN105</EnrollmentID>
+  </StudentRecord>
+</StudentsList>

@@ -1,0 +1,31 @@
+<!DOCTYPE students [
+   <!ELEMENT students (student+)>
+   <!ELEMENT student (name, rollN, mark, EnID)>
+   <!ELEMENT name (#PCDATA)>
+   <!ELEMENT rollN (#PCDATA)>
+   <!ELEMENT mark (#PCDATA)>
+   <!ELEMENT EnID (#PCDATA)>
+]>
+
+<students>
+    <student>
+        <name>Rohit</name>
+        <rollN>3</rollN>
+        <mark>76%</mark>
+        <EnID>EN103</EnID>
+    </student>
+
+    <student>
+        <name>Sanika</name>
+        <rollN>4</rollN>
+        <mark>85%</mark>
+        <EnID>EN104</EnID>
+    </student>
+
+    <student>
+        <name>Pruthvi</name>
+        <rollN>5</rollN>
+        <mark>91%</mark>
+        <EnID>EN105</EnID>
+    </student>
+</students>

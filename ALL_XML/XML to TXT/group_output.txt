@@ -1,0 +1,23 @@
+﻿Project Group Members
+=======================
+
+Name: Trupti Kandalkar
+Role: Project Leader
+Email: truptikandalkar1@gmail.com
+-----------------------
+Name: Srujana Toukare
+Role: Frontend Developer
+Email: srujanatoukare2@gmail.com
+-----------------------
+Name: Shreya Patil
+Role: Backend Developer
+Email: shreyapatil3@gmail.com
+-----------------------
+Name: Rohit Chavan
+Role: Database Manager
+Email: rohitchavan5@gmail.com
+-----------------------
+Name: Pruthvi Yadav
+Role: UI/UX Designer
+Email: pruthviyadav7@gmail.com
+-----------------------

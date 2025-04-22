@@ -1,0 +1,29 @@
+student {
+    display: block;
+    border: 2px solid #4CAF50;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f0f8ff; 
+}
+
+name {
+    font-weight: bold;
+    font-size: 25px;
+    display: block;
+}
+
+rollN, mark, EnID {
+    display: block;
+    margin-left: 10px;
+}
+
+mark {
+    color: #e67e22; 
+    font-weight: bold;
+}
+
+EnID {
+    color: #8e44ad;
+    font-style: italic;
+}

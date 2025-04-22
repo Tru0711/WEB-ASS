@@ -1,0 +1,91 @@
+<?xml-stylesheet type="text/css" href="style.css"?>
+<Employees>
+   <Emp>
+        <name> Trupti Kandalkar</name>
+        <email> truptikandalkar1@gmail.com </email>
+        <phoneNo> 1234567890 </phoneNo>
+        <gender> female</gender>
+        <jobTitle> Manager  </jobTitle>
+        <DOB> 7-10-2004 </DOB>
+        <salary>90000 </salary>
+   </Emp>
+
+   <Emp>
+        <name> Srujana Toukare </name>
+        <email> srujanatoukare2@gmail.com</email>
+        <phoneNo> 2345678901 </phoneNo>
+        <gender> female </gender>
+        <jobTitle> Engineer </jobTitle>
+        <DOB> 18-5-2004 </DOB>
+        <salary> 80000</salary>
+
+   </Emp>
+
+   <Emp>
+        <name> Shreya Patil</name>
+        <email> shreyapatil3@gmail.com </email>
+        <phoneNo> 3456789012 </phoneNo>
+        <gender> female </gender>
+        <jobTitle> Clerk </jobTitle>
+        <DOB> 11-2-2004 </DOB>
+        <salary> 50000 </salary>
+
+   </Emp>
+
+   <Emp>
+        <name> Shravani Lohar</name>
+        <email> shravanilohar4@gmail.com</email>
+        <phoneNo> 4567890123 </phoneNo>
+        <gender> female </gender>
+        <jobTitle> Technician  </jobTitle>
+        <DOB>  4-11-2004 </DOB>
+        <salary>60000 </salary>
+
+   </Emp>
+
+   <Emp>
+        <name> Rohit Chavan</name>
+        <email> rohitchavan5@gmail.com </email>
+        <phoneNo> 5678901234 </phoneNo>
+        <gender> male </gender>
+        <jobTitle> Assistant </jobTitle>
+        <DOB> 11-11-2001 </DOB>
+        <salary> 42000 </salary>
+
+   </Emp>
+
+   <Emp>
+        <name> Aryan Patil </name>
+        <email> aryanpatil6@gmail.com</email>
+        <phoneNo> 6789012345 </phoneNo>
+        <gender> male </gender>
+        <jobTitle> Supervisor </jobTitle>
+        <DOB> 17-1-2000 </DOB>
+        <salary> 95000 </salary>
+
+   </Emp>
+
+   <Emp>
+        <name> Pruthvi yadav </name>
+        <email> pruthviyadav7@gmail.com </email>
+        <phoneNo> 7890123456 </phoneNo>
+        <gender> male </gender>
+        <jobTitle> Operator </jobTitle>
+        <DOB> 5-9-2003</DOB>
+        <salary> 20000 </salary>
+
+   </Emp>
+
+   <Emp>
+        <name> Ria deshmukh</name>
+        <email> riadeshmukh8@gmail.com </email>
+        <phoneNo> 8901234567 </phoneNo>
+        <gender> female </gender>
+        <jobTitle> Analyst </jobTitle>
+        <DOB> 18-1-2000 </DOB>
+        <salary> 27000 </salary>
+
+   </Emp>
+
+
+</Employees>

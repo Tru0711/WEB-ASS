@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CompanyEmployees>
+  <Employee>
+    <FullName>Trupti Kandalkar</FullName>
+    <Email>truptikandalkar1@gmail.com</Email>
+    <PhoneNumber>1234567890</PhoneNumber>
+    <Gender>female</Gender>
+    <Position>Manager</Position>
+    <DateOfBirth>7-10-2004</DateOfBirth>
+    <Salary>90000</Salary>
+  </Employee>
+  <Employee>
+    <FullName>Srujana Toukare</FullName>
+    <Email>srujanatoukare2@gmail.com</Email>
+    <PhoneNumber>2345678901</PhoneNumber>
+    <Gender>female</Gender>
+    <Position>Engineer</Position>
+    <DateOfBirth>18-5-2004</DateOfBirth>
+    <Salary>80000</Salary>
+  </Employee>
+  <Employee>
+    <FullName>Shreya Patil</FullName>
+    <Email>shreyapatil3@gmail.com</Email>
+    <PhoneNumber>3456789012</PhoneNumber>
+    <Gender>female</Gender>
+    <Position>Clerk</Position>
+    <DateOfBirth>11-2-2004</DateOfBirth>
+    <Salary>50000</Salary>
+  </Employee>
+  <Employee>
+    <FullName>Shravani Lohar</FullName>
+    <Email>shravanilohar4@gmail.com</Email>
+    <PhoneNumber>4567890123</PhoneNumber>
+    <Gender>female</Gender>
+    <Position>Technician</Position>
+    <DateOfBirth>4-11-2004</DateOfBirth>
+    <Salary>60000</Salary>
+  </Employee>
+  <Employee>
+    <FullName>Rohit Chavan</FullName>
+    <Email>rohitchavan5@gmail.com</Email>
+    <PhoneNumber>5678901234</PhoneNumber>
+    <Gender>male</Gender>
+    <Position>Assistant</Position>
+    <DateOfBirth>11-11-2001</DateOfBirth>
+    <Salary>42000</Salary>
+  </Employee>
+  <Employee>
+    <FullName>Aryan Patil</FullName>
+    <Email>aryanpatil6@gmail.com</Email>
+    <PhoneNumber>6789012345</PhoneNumber>
+    <Gender>male</Gender>
+    <Position>Supervisor</Position>
+    <DateOfBirth>17-1-2000</DateOfBirth>
+    <Salary>95000</Salary>
+  </Employee>
+  <Employee>
+    <FullName>Pruthvi Yadav</FullName>
+    <Email>pruthviyadav7@gmail.com</Email>
+    <PhoneNumber>7890123456</PhoneNumber>
+    <Gender>male</Gender>
+    <Position>Operator</Position>
+    <DateOfBirth>5-9-2003</DateOfBirth>
+    <Salary>20000</Salary>
+  </Employee>
+  <Employee>
+    <FullName>Ria Deshmukh</FullName>
+    <Email>riadeshmukh8@gmail.com</Email>
+    <PhoneNumber>8901234567</PhoneNumber>
+    <Gender>female</Gender>
+    <Position>Analyst</Position>
+    <DateOfBirth>18-1-2000</DateOfBirth>
+    <Salary>27000</Salary>
+  </Employee>
+</CompanyEmployees>

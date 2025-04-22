@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Team>
+  <TeamMember>
+    <FullName>Trupti Kandalkar</FullName>
+    <Position>Project Leader</Position>
+    <ContactEmail>truptikandalkar1@gmail.com</ContactEmail>
+  </TeamMember>
+  <TeamMember>
+    <FullName>Srujana Toukare</FullName>
+    <Position>Frontend Developer</Position>
+    <ContactEmail>srujanatoukare2@gmail.com</ContactEmail>
+  </TeamMember>
+  <TeamMember>
+    <FullName>Shreya Patil</FullName>
+    <Position>Backend Developer</Position>
+    <ContactEmail>shreyapatil3@gmail.com</ContactEmail>
+  </TeamMember>
+  <TeamMember>
+    <FullName>Rohit Chavan</FullName>
+    <Position>Database Manager</Position>
+    <ContactEmail>rohitchavan5@gmail.com</ContactEmail>
+  </TeamMember>
+  <TeamMember>
+    <FullName>Pruthvi Yadav</FullName>
+    <Position>UI/UX Designer</Position>
+    <ContactEmail>pruthviyadav7@gmail.com</ContactEmail>
+  </TeamMember>
+</Team>

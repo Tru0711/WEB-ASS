@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="forTransform.xsl"?>
+<foodMenu>
+    <dish>
+        <dishName>Margherita Pizza</dishName>
+        <type>Pizza</type>
+        <cost>₹250</cost>
+    </dish>
+    <dish>
+        <dishName>Butter Chicken</dishName>
+        <type>Indian Curry</type>
+        <cost>₹350</cost>
+    </dish>
+    <dish>
+        <dishName>Cold Coffee</dishName>
+        <type>Beverage</type>
+        <cost>₹100</cost>
+    </dish>
+</foodMenu>

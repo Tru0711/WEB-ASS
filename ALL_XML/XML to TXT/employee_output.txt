@@ -1,0 +1,67 @@
+﻿Employees List
+===================
+
+Name: Trupti Kandalkar
+Email: truptikandalkar1@gmail.com
+Phone Number: 1234567890
+Gender: female
+Job Title: Manager
+Date of Birth: 7-10-2004
+Salary: 90000
+--------------------------
+Name: Srujana Toukare
+Email: srujanatoukare2@gmail.com
+Phone Number: 2345678901
+Gender: female
+Job Title: Engineer
+Date of Birth: 18-5-2004
+Salary: 80000
+--------------------------
+Name: Shreya Patil
+Email: shreyapatil3@gmail.com
+Phone Number: 3456789012
+Gender: female
+Job Title: Clerk
+Date of Birth: 11-2-2004
+Salary: 50000
+--------------------------
+Name: Shravani Lohar
+Email: shravanilohar4@gmail.com
+Phone Number: 4567890123
+Gender: female
+Job Title: Technician
+Date of Birth: 4-11-2004
+Salary: 60000
+--------------------------
+Name: Rohit Chavan
+Email: rohitchavan5@gmail.com
+Phone Number: 5678901234
+Gender: male
+Job Title: Assistant
+Date of Birth: 11-11-2001
+Salary: 42000
+--------------------------
+Name: Aryan Patil
+Email: aryanpatil6@gmail.com
+Phone Number: 6789012345
+Gender: male
+Job Title: Supervisor
+Date of Birth: 17-1-2000
+Salary: 95000
+--------------------------
+Name: Pruthvi Yadav
+Email: pruthviyadav7@gmail.com
+Phone Number: 7890123456
+Gender: male
+Job Title: Operator
+Date of Birth: 5-9-2003
+Salary: 20000
+--------------------------
+Name: Ria Deshmukh
+Email: riadeshmukh8@gmail.com
+Phone Number: 8901234567
+Gender: female
+Job Title: Analyst
+Date of Birth: 18-1-2000
+Salary: 27000
+--------------------------

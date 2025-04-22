@@ -1,0 +1,47 @@
+﻿<html>
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>XPath Demo</title>
+    <style>
+          body { font-family: Arial; padding: 20px; }
+          h2 { color: #333; }
+          ul { list-style: none; padding: 0; }
+          li { margin-bottom: 10px; background: #f0f0f0; padding: 8px; border-radius: 6px; }
+        </style>
+  </head>
+  <body>
+    <h2>1. All Students (XPath: /students/student)</h2>
+    <ul>
+      <li>trupti (Age: 20)</li>
+      <li>Karan (Age: 22)</li>
+      <li>Neha (Age: 21)</li>
+    </ul>
+    <h2>2. First Student Only (XPath: /students/student[1])</h2>
+    <ul>
+      <li>trupti 
+            (Age: 20)
+          </li>
+    </ul>
+    <h2>3. Students Aged 22 (XPath: /students/student[age=22])</h2>
+    <ul>
+      <li>Karan (Age: 22)</li>
+    </ul>
+    <h2>4. Names Only (XPath: /students/student/name)</h2>
+    <ul>
+      <li>trupti</li>
+      <li>Karan</li>
+      <li>Neha</li>
+    </ul>
+    <h2>5. Last Student (XPath: /students/student[last()])</h2>
+    <ul>
+      <li>Neha
+            (Age: 21)
+          </li>
+    </ul>
+    <h2>6. Students Aged Greater Than 20 (XPath: /students/student[age &gt; 20])</h2>
+    <ul>
+      <li>Karan (Age: 22)</li>
+      <li>Neha (Age: 21)</li>
+    </ul>
+  </body>
+</html>

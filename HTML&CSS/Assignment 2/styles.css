@@ -1,0 +1,39 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+  }
+  
+  h3 {
+    text-align: center;
+  }
+  
+  form {
+    background-color: #d3d2d2f1;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px; 
+    margin:auto; 
+   
+  }
+  
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+    height: 10px;
+  }
+  
+  
+  button {
+    background-color: #a6cd19; 
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    width: 100%;
+  }
+  
+  button:hover {
+    background-color: #45a049; 
+  }

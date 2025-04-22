@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employees SYSTEM "employee.dtd">
+<employees>
+    <employee>
+        <name>TRUPTI</name>
+        <id>EMP001</id>
+        <department>HR</department>
+    </employee>
+
+    <employee>
+        <name>SHREYA</name>
+        <id>EMP002</id>
+        <department>IT</department>
+    </employee>
+
+    <employee>
+        <name>ANIKET</name>
+        <id>EMP003</id>
+        <department>TESTER</department>
+    </employee>
+    <employee>
+        <name>ROHIT</name>
+        <id>EMP004</id>
+        <department>SECURITY</department>
+    </employee>
+    <employee>
+        <name>ARYA</name>
+        <id>EMP006</id>
+        <department>EMP</department>
+    </employee>
+</employees>

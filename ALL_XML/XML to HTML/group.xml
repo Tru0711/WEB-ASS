@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="group.xsl"?>
+<projectGroup>
+    <member>
+        <name>Trupti Kandalkar</name>
+        <role><lead>Project Leader</lead></role>
+        <email>truptikandalkar1@gmail.com</email>
+    </member>
+
+    <member>
+        <name>Srujana Toukare</name>
+        <role>Frontend Developer</role>
+        <email>srujanatoukare2@gmail.com</email>
+    </member>
+
+    <member>
+        <name>Shreya Patil</name>
+        <role>Backend Developer</role>
+        <email>shreyapatil3@gmail.com</email>
+    </member>
+
+    <member>
+        <name>Rohit Chavan</name>
+        <role>Database Manager</role>
+        <email>rohitchavan5@gmail.com</email>
+    </member>
+
+    <member>
+        <name>Pruthvi Yadav</name>
+        <role>UI/UX Designer</role>
+        <email>pruthviyadav7@gmail.com</email>
+    </member>
+</projectGroup>

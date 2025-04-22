@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<class>
+  <student>
+       <name> Trupti </name>
+       <rollN> 1 </rollN>
+       <mark> 87% </mark>
+       <EnID> EN101 </EnID>  
+  </student>
+
+  <student>
+      <name> Swaraj </name>
+       <rollN> 2 </rollN>
+       <mark> 64% </mark>
+       <EnID> EN102 </EnID>
+  </student>
+
+  <student>
+      <name> Rohit </name>
+       <rollN> 3 </rollN>
+       <mark> 76% </mark>
+       <EnID> EN103 </EnID>
+  </student>
+
+  <student>
+      <name> Sanika </name>
+       <rollN> 4 </rollN>
+       <mark> 85% </mark>
+       <EnID> EN104 </EnID>
+  </student>
+
+  <student>
+      <name> Pruthvi </name>
+       <rollN> 5 </rollN>
+       <mark> 91% </mark>
+       <EnID> EN105 </EnID>
+  </student>
+</class>
