@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple Registration Form</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #000707; /* Light cyan background */
+      padding: 20px;
+    }
+
+    h2 {
+      text-align: center;
+      color: #d5f506; /* Teal color for the heading */
+    }
+
+    form {
+      background: #ffffff; /* White background for the form */
+      padding: 20px;
+      max-width: 400px;
+      margin: auto;
+      border: 1px solid #040505; /* Darker teal border */
+      border-radius: 15px;
+    }
+
+    label {
+      display: block;
+      margin-top: 10px;
+      color: #010101;
+      font-weight: bold; 
+    }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="password"],
+    input[type="tel"],
+    input[type="date"],
+    select,
+    textarea {
+      width: 100%;
+      padding: 8px;
+      margin-top: 5px;
+      box-sizing: border-box;
+      border-radius: 5px;
+      border: 1px solid #070707;
+      
+    }
+
+    textarea {
+      resize: vertical;
+      border-radius: 10px;
+    }
+
+    input[type="submit"] {
+      padding: 10px 20px;
+      background-color: #00796b; /* Teal background for submit button */
+      color: white;
+      border: none;
+      margin-top: 15px;
+      cursor: pointer;
+      width: 100%;
+      border-radius: 15px;
+    }
+
+    input[type="submit"]:hover {
+      background-color: #004d40; /* Darker teal on hover */
+    }
+
+    input[type="radio"] {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Registration Form</h2>
+
+  <form action="submit.php" method="POST">
+    
+    <label>Full Name:</label>
+    <input type="text" name="fullname" required>
+
+    <label>Username:</label>
+    <input type="text" name="username" required>
+
+    <label>Email:</label>
+    <input type="email" name="email" required>
+
+    <label>Password:</label>
+    <input type="password" name="password" required>
+
+    <label>Gender:</label>
+    <input type="radio" name="gender" value="Male"> Male
+    <input type="radio" name="gender" value="Female"> Female
+    <input type="radio" name="gender" value="Other"> Other
+
+    <label>Mobile:</label>
+    <input type="tel" name="mobile" required>
+
+    <label>Date of Birth:</label>
+    <input type="date" name="dob" required>
+
+    <label>Country:</label>
+    <select name="country">
+      <option>India</option>
+      <option>USA</option>
+      <option>Canada</option>
+    </select>
+
+    <label>Address:</label>
+    <textarea name="address" rows="3"></textarea>
+
+    <input type="checkbox" name="terms" required> I agree to the Terms
+
+    <input type="submit" value="Submit">
+  </form>
+
+</body>
+</html>

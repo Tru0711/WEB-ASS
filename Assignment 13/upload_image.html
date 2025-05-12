@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple File Upload</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f4f4f4;
+      padding: 20px;
+    }
+
+    h2 {
+      color: #333;
+    }
+
+    form {
+      background: #fff;
+      padding: 15px;
+      border: 1px solid #ccc;
+      width: 300px;
+    }
+
+    input[type="file"],
+    input[type="submit"] {
+      margin-top: 10px;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Image Upload</h2>
+  <form method="POST" action="uploadimage.php" enctype="multipart/form-data">
+    <label for="file">Select an image:</label>
+    <input type="file" name="uploadfile" accept=".jpg,.jpeg,.png" required />
+    <input type="submit" name="submit" value="Upload" />
+  </form>
+
+</body>
+</html>
